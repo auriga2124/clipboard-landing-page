@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/clipboard-landing-page-BLNURT0TjG)
 - Live Site URL: [Live site at Netlify](https://auriga-clipboard-landing-page.netlify.app/)
 
 ## My process
